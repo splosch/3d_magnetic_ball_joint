@@ -18,10 +18,12 @@ Chromeball sliding directly on a epoxyd cylindric magnet with a conical hole whe
     * B) sintered magnets usually dont like pressure and impact forces
     * snap-in design or glueing into wider pockets could solve this
 
-![B) conic ball joint example](https://raw.githubusercontent.com/splosch/3d_magnetic_ball_joint/master/conic_ball_joint_example.png)
+![B) conic ball joint example](https://raw.githubusercontent.com/splosch/3d_magnetic_ball_joint/master/documentation/conic_ball_joint_example.png)
 
 ### Example: end effector
-![end effector example image](https://raw.githubusercontent.com/splosch/3d_magnetic_ball_joint/master/end_effector_example.png)
+![end effector example image](https://raw.githubusercontent.com/splosch/3d_magnetic_ball_joint/master/documentation/end_effector_example.png)
+
+![end effector example printed](https://raw.githubusercontent.com/splosch/3d_magnetic_ball_joint/master/documentation/end_effector_printed_example.jpg)
 
 ### BOM (Bill of materials)
 Version B (Chromeball sliding on conic magnet coated in epoxy)
@@ -37,7 +39,7 @@ Version B (Chromeball sliding on conic magnet coated in epoxy)
 
 ## Design A: flat magnet with nylon washer (not working)
 Chromeball sliding on a nylon washer, kept in place by a flat cylindric magnet
-* a 10mm ball sinks in the M6 nylon washers hole (6.2mm) with ~1.5mm thickness just far enough to not touch the magnet. Tight fit 6mm holes require ~1.2mm thickness.
+a 10mm ball sinks in the M6 nylon washers hole (6.2mm) with ~1.5mm thickness just far enough to not touch the magnet. Tight fit 6mm holes require ~1.2mm thickness.
 
 * Pro:
   * cheap standard components
@@ -49,7 +51,7 @@ Chromeball sliding on a nylon washer, kept in place by a flat cylindric magnet
   * practical printing speeds / accelerations would not be possible
     * thicker magnets could help bridge the gap but add more weight
 
-![A) ball joint example](https://raw.githubusercontent.com/splosch/3d_magnetic_ball_joint/master/ball_joint_example_A.png)
+![A) ball joint example](https://raw.githubusercontent.com/splosch/3d_magnetic_ball_joint/master/documentation/ball_joint_example_A.png)
 
 ### BOM (Bill of materials)
 Design A (not working):
