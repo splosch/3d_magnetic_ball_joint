@@ -10,7 +10,9 @@ Chromeball sliding directly on a epoxyd cylindric magnet with a conical hole whe
   * N42 magnets provide enough stength to keep up with high printing speeds / accelerations
   * screw to maintain magnet holder pockets are reachable through magnet hole
 * Contra:
-  * potential wear on the epoxy coating (it's conical, not spherical)
+  * potential wear from opertion on the epoxy coating
+    * it's conical, not spherical so friction is not distributed equally
+    * silikon lubrication or PTFE (Teflon) spray-paint-coating on top of the epoxy could help
   * in current design the magnet is press-fit in the pocket
     * A) tighten the screw might leave tiny traces from inserting/extrating screwdriver
     * B) sintered magnets usually dont like pressure and impact forces
@@ -18,10 +20,10 @@ Chromeball sliding directly on a epoxyd cylindric magnet with a conical hole whe
 
 ![B) conic ball joint example](https://raw.githubusercontent.com/splosch/3d_magnetic_ball_joint/master/conic_ball_joint_example.png)
 
-## Example: end effector
+### Example: end effector
 ![end effector example image](https://raw.githubusercontent.com/splosch/3d_magnetic_ball_joint/master/end_effector_example.png)
 
-# BOM (Bill of materials)
+### BOM (Bill of materials)
 Version B (Chromeball sliding on conic magnet coated in epoxy)
 * 10mm Chrome-Steel-Ball
 * 8 x 3mm conic Neodym-Magnet (N42 worked fine)
