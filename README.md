@@ -59,3 +59,6 @@ Design A (not working):
 * 8 x 2mm Neodym-Magnet (for my purpose N50 worked fine)
 * 11.9 x 1.5 mm M6 Nylon washer / disc
  * inner diameter 6.2mm
+
+# Credits
+* idea based on [Olooki3D](http://www.thingiverse.com/Olooki3D)'s design of a [Diamond magnetic effector for delta Kossel or Rostock **@ thingiverse**](http://www.thingiverse.com/thing:1157670)
