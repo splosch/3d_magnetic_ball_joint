@@ -18,9 +18,7 @@ Chromeball sliding directly on a epoxyd cylindric magnet with a conical hole whe
     * it's conical, not spherical so friction is not distributed equally
     * silikon lubrication or PTFE (Teflon) spray-paint-coating on top of the epoxy could help
   * in current design the magnet is press-fit in the pocket
-    * A) tighten the screw might leave tiny traces from inserting/extrating screwdriver
-    * B) sintered magnets usually dont like pressure and impact forces
-    * snap-in design or glueing into wider pockets could solve this
+    * A) tighten the screw leaves tiny traces from inserting/extrating screwdriver
 
 ![B) conic ball joint example](https://raw.githubusercontent.com/splosch/3d_magnetic_ball_joint/master/documentation/conic_ball_joint_example.png)
 
