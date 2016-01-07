@@ -25,6 +25,8 @@ Chromeball sliding directly on a epoxyd cylindric magnet with a conical hole whe
 ### Example: end effector
 ![end effector example image](https://raw.githubusercontent.com/splosch/3d_magnetic_ball_joint/master/documentation/end_effector_example.png)
 
+![end effector example image](https://raw.githubusercontent.com/splosch/3d_magnetic_ball_joint/master/documentation/one_side_example.png)
+
 ![end effector example printed](https://raw.githubusercontent.com/splosch/3d_magnetic_ball_joint/master/documentation/end_effector_printed_example.jpg)
 
 ### BOM (Bill of materials)
