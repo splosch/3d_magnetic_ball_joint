@@ -1,6 +1,10 @@
 # 3d_magnetic_ball_joint
 Low-friction magnetic ball joints for delta 3d printer based on standard components
 
+## information on the parts / examples
+The assebled / example screens are indicate a scheme but might not contain the most recent part updates.
+The 123DX and STL files reflect the latest updates.
+
 ## Design B: conic magnet with epoxy coating
 Chromeball sliding directly on a epoxyd cylindric magnet with a conical hole where the ball snapps in
 
